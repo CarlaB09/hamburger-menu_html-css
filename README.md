@@ -2,7 +2,7 @@
 
 A small responsive website demo showcasing a hamburger-style navigation menu built with HTML and CSS.
 
-*  [Live Site URL](#)
+*  [Live Site URL](https://carlab09.github.io/hamburger-menu_html-css/)
 
 ## Overview
 
